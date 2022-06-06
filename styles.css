@@ -1,0 +1,60 @@
+body {
+    font-family: "Times New Roman",Times,serif;
+    color: white;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.navbar {
+    background-color: #2668aa;  
+}
+
+.img-profile {
+    max-width: 9rem;
+    max-height: 9rem;
+    border: 0.3rem solid white;
+    border-radius: 100%;
+}
+
+.mobile-img {
+    max-width: 13rem;
+    max-height: 13rem;
+    border: 0.3rem solid black;
+    border-radius: 100%;
+}
+
+#sideNav {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 18rem;
+    height: 100vh;
+    place-content: center;
+}
+
+h2,
+h4,
+h5,
+h6,
+#sideNav {
+    
+    font-family: "Times New Roman",Times,serif ;
+    font-weight: 700;
+    
+}
+.cert {
+    max-width: 20rem;
+    max-height: 20rem;
+}
+
+.content {
+    padding-left: 18rem;
+}
+
+.progress-bar,
+.btn {
+background-color: rgb(18, 124, 18);
+}
+
